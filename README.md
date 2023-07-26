@@ -1,4 +1,4 @@
-# Profanity Replacement Extension - Harish Ravishankar
+# Profanity Replacement Extension - LAAKSHIT D
 
 Replace bad words with emojis and show sentiment analysis in real-time using this browser extension.
 
