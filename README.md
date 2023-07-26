@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or questions, feel free to reach out to us at [My Mail](mailto:your-harishr.shankar@gmail.com).
 
 
-### Enjoy a cleaner and more positive online experience with our Profanity Replacement Extension!
+### Enjoy a cleaner and more positive online experience with our Profanity Replacement Extension!!
