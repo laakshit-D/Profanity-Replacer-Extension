@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Bad Word Replacement Extension",
+    "version": "1.0",
+    "description": "Replace bad words with emojis and show sentiment analysis",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "icons": {
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "host_permissions": [
+      "https://cdnjs.cloudflare.com/*"
+    ]
+  }
+  
